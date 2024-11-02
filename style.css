@@ -1,0 +1,29 @@
+body{
+    background-color: #C6E7FF;
+}
+
+img{
+    width: 100%;
+    border: 10px solid #FBFBFB;
+}
+
+h1{
+    text-transform: uppercase;
+    text-align: center;  
+}
+p{
+    color: red;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+#img-cap{
+    width: 50%;
+    border: 10px solid #FBFBFB;
+    padding:100px;
+    margin-top: 10%;
+    margin-left: 25%;
+    color: #FBFBFB;
+    text-align: right;
+    font-family: "Itim", cursive;
+}
